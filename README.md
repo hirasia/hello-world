@@ -1,3 +1,18 @@
+## 2021 30-Day Challenges
+1. 21-Days of Tone Blogilates challenge (30 burpees per day otherwise)
+2. Read for 20 minutes each day
+3. Meditate for 15 minutes each day
+4. Delete all social media for one month (Youtube, Instagram, FB)
+5. Yoga/flexibility stretching for 20 min every day
+6. Floss every night
+7. Draw for 20 min each day
+8. Wake up at 6am and walk outdoors each morning
+9. NaNoWriMo
+10. Steezy
+11. Go vegetarian 
+12. Finish a Coursera coding course
+13. Read 3 econ papers a week and write blog posts summarizing them
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/hirasia/hello-world/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
