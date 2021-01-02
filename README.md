@@ -1,5 +1,5 @@
 ## 2021 30-Day Challenges
-1. 21-Days of Tone Blogilates challenge (30 burpees per day otherwise)
+1. 21-Days of Tone Blogilates [challenge](https://www.blogilates.com/ready-to-crush-the-21-day-tone-challenge/?utm_source=Blogilates+Newsletter&utm_campaign=a44976a432-EMAIL_CAMPAIGN_2018_12_26_06_51_COPY_01&utm_medium=email&utm_term=0_3cff3a42ed-a44976a432-236433801) (30 burpees per day otherwise)
 2. Read for 20 minutes each day
 3. Meditate for 15 minutes each day
 4. Delete all social media for one month (Youtube, Instagram, FB)
